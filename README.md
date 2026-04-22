@@ -1,5 +1,7 @@
 # Futures Position Sizer
 
+![Futures Position Sizer Preview](preview.png)
+
 A custom drawing tool for **Tradovate** that calculates optimal position size for futures trading based on account risk management rules.
 
 ## What it does
