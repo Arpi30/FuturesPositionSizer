@@ -51,8 +51,8 @@ All values update in real time as you move the anchors.
 ## Installation
 
 1. Open Tradovate
-2. Go to **Account menu → Custom tools & indicators**
-3. Click **New** and paste the contents of `FuturesPositionSizer.js`
+2. Open the **Code Editor**
+3. Create a new file or import `FuturesPositionSizer.js`
 4. Save — the tool appears under **Drawing Tools → My Tools**
 
 ## R:R Color Coding
